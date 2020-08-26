@@ -10,6 +10,12 @@ I love to develop useful applications for everyday life. I'm driven by good idea
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#11](https://github.com//Luehang/react-native-easy-view-transformer/issues/11) in [Luehang/react-native-easy-view-transformer](https://github.com//Luehang/react-native-easy-view-transformer)
+2. 🎉 Merged PR [#11](https://github.com//brunoesposito/react_countries/pull/11) in [brunoesposito/react_countries](https://github.com//brunoesposito/react_countries)
+3. 💪 Opened PR [#11](https://github.com//brunoesposito/react_countries/pull/11) in [brunoesposito/react_countries](https://github.com//brunoesposito/react_countries)
+4. ❌ Closed PR [#5](https://github.com//brunoesposito/react_countries/pull/5) in [brunoesposito/react_countries](https://github.com//brunoesposito/react_countries)
+5. 🎉 Merged PR [#9](https://github.com//brunoesposito/react_countries/pull/9) in [brunoesposito/react_countries](https://github.com//brunoesposito/react_countries)
+<!--END_SECTION:activity-->
 
 ---
 
