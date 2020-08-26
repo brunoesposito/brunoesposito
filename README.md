@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bruno.
+## Hi there 👋 I'm Bruno.
 
 [<span><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></span>](https://api.whatsapp.com/send?phone=5514996763669)
 [<span><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></span>](https://www.linkedin.com/in/brunoesposito/)
