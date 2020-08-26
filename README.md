@@ -5,12 +5,15 @@
 
 I love to develop useful applications for everyday life. I'm driven by good ideas. 💡
 
+---
+
+### ⚡ Recent Activity
+
 <!--START_SECTION:activity-->
 
-</br>
-</br>
+---
 
-### Nowadays I am moved to:
+### 🏃Nowadays I am moved to:
 
 <span><img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></span>
 <span><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></span>
