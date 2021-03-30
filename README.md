@@ -10,11 +10,11 @@ I love to develop useful applications for everyday life. I'm driven by good idea
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/brunoesposito/jussi/pull/2) in [brunoesposito/jussi](https://github.com/brunoesposito/jussi)
-2. 💪 Opened PR [#2](https://github.com/brunoesposito/jussi/pull/2) in [brunoesposito/jussi](https://github.com/brunoesposito/jussi)
-3. 🎉 Merged PR [#1](https://github.com/brunoesposito/brunoesposito/pull/1) in [brunoesposito/brunoesposito](https://github.com/brunoesposito/brunoesposito)
-4. 🎉 Merged PR [#10](https://github.com/brunoesposito/person-microservice/pull/10) in [brunoesposito/person-microservice](https://github.com/brunoesposito/person-microservice)
-5. 🎉 Merged PR [#11](https://github.com/brunoesposito/person-microservice/pull/11) in [brunoesposito/person-microservice](https://github.com/brunoesposito/person-microservice)
+1. 🎉 Merged PR [#3](https://github.com/brunoesposito/jussi/pull/3) in [brunoesposito/jussi](https://github.com/brunoesposito/jussi)
+2. 💪 Opened PR [#3](https://github.com/brunoesposito/jussi/pull/3) in [brunoesposito/jussi](https://github.com/brunoesposito/jussi)
+3. 🎉 Merged PR [#2](https://github.com/brunoesposito/jussi/pull/2) in [brunoesposito/jussi](https://github.com/brunoesposito/jussi)
+4. 💪 Opened PR [#2](https://github.com/brunoesposito/jussi/pull/2) in [brunoesposito/jussi](https://github.com/brunoesposito/jussi)
+5. 🎉 Merged PR [#1](https://github.com/brunoesposito/brunoesposito/pull/1) in [brunoesposito/brunoesposito](https://github.com/brunoesposito/brunoesposito)
 <!--END_SECTION:activity-->
 
 ---
