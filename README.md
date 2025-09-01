@@ -11,7 +11,6 @@ I love to develop useful applications for everyday life. I'm driven by good idea
 <span><img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></span>
 <span><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></span>
 <span><img src="https://img.shields.io/badge/nextjs%20-%2320232a.svg?&style=for-the-badge&logo=vercel&logoColor=%e26012"/></span>
-<span><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></span>
 ---
 <span><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/javascript%20-%23efd81d.svg?&style=for-the-badge&logo=javascript&logoColor=black"/></span>
